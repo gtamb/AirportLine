@@ -1,0 +1,1 @@
+A short program that takes a list of airport customers with their airplane class, arrival times, and service times. It will organize the customers and complete their service using the pthread library to manage the various threads.
